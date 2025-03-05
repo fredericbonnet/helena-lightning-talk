@@ -1,0 +1,208 @@
+1:
+Part One
+  compute: 67.745ms
+  result = 1223326
+Part Two
+  compute: 48.952ms
+  result = 21070419
+
+2:
+Part One
+  compute: 93.826ms
+  result = 534
+Part Two
+  compute: 111.199ms
+  result = 577
+
+3:
+Part One
+  compute: 30.206ms
+  result = 180233229
+Part Two
+  compute: 30.888ms
+  result = 95411583
+
+4:
+Part One
+  compute: 1.471s
+  result = 2358
+Part Two
+  compute: 2.215s
+  result = 1737
+
+5:
+Part One
+  parse: 88.7ms
+  compute: 99.453ms
+  result = 4924
+Part Two
+  compute: 2.591s
+  result = 6085
+
+6:
+Part One
+  parse: 189.197ms
+  compute: 1.610s
+  result = 4656
+Part Two
+  compute: 8:58.423 (m:ss.mmm)
+  result = 1575
+
+7:
+Part One
+  compute: 1.588s
+  result = 66343330034722
+Part Two
+  compute: 40.034s
+  result = 637696070419031
+
+8:
+Part One
+  parse: 49.234ms
+  compute: 57.681ms
+  result = 398
+Part Two
+  compute: 209.608ms
+  result = 1333
+
+9:
+Part One
+  parse: 323.55ms
+  compute: 1.778s
+  result = 6349606724455
+Part Two
+  compute: 51.734s
+  result = 6376648986651
+
+10:
+Part One
+  parse: 46.771ms
+  compute: 252.376ms
+  result = 659
+Part Two
+  compute: 194.773ms
+  result = 1463
+
+11:
+Part One
+  compute: 5:47.982 (m:ss.mmm)
+  result = 186424
+Part Two
+  compute: 12.758s
+  result = 219838428124832
+
+12:
+Part One
+  parse: 227.304ms
+  compute: 5.560s
+  result = 1396562
+Part Two
+  compute: 3.527s
+  result = 844132
+
+13:
+Part One
+  parse: 66.198ms
+  compute: 1.289s
+  result = 33427
+Part Two
+  parse: 20.589ms
+  compute: 45.278ms
+  result = 91649162972270
+
+14:
+Part One
+  parse: 79.005ms
+  compute: 206.694ms
+  result = 222208000
+
+15:
+Part One
+  parse: 273.296ms
+  compute: 2.753s
+  result = 1383666
+Part Two
+  parse: 188.176ms
+  compute: 4.694s
+  result = 1412866
+
+16:
+Part One
+  parse: 15.320s
+  compute: 2:30.609 (m:ss.mmm)
+  result = 122492
+Part Two
+  compute: 765.405ms
+  result = 520
+
+17:
+Part One
+  compute: 34.87ms
+  result = 4,1,7,6,4,1,0,2,7
+Part Two
+  compute: 6.287s
+  result = 164279024971453
+
+18:
+Part One
+  parse: 114.257ms
+  compute: 1.737s
+  result = 248
+Part Two
+  compute: 1:32.255 (m:ss.mmm)
+  result = 32,55
+
+19:
+Part One
+  parse: 18.72ms
+  compute: 21.632ms
+  result = 342
+Part Two
+  compute: 6:26.984 (m:ss.mmm)
+  result = 891192814474630
+
+20:
+Part One
+  parse: 9.023s
+  compute: 8.180s
+  result = 1497
+Part Two
+  compute: 1:47.186 (m:ss.mmm)
+  result = 1030809
+
+21:
+Part One
+  compute: 49.517ms
+  result = 177814
+Part Two
+  compute: 71.276ms
+  result = 220493992841852
+
+22:
+Part One
+  compute: 1:04.613 (m:ss.mmm)
+  result = 17960270302
+Part Two
+  compute: 3:42.907 (m:ss.mmm)
+  result = 2042
+
+23:
+Part One
+  parse: 1.750s
+  compute: 10.744s
+  result = 1149
+Part Two
+  compute: 149.286ms
+  result = as,co,do,kh,km,mc,np,nt,un,uq,wc,wz,yo
+
+24:
+Part One
+  parse: 27.717ms
+  compute: 90.338ms
+  result = 52038112429798
+
+25:
+Part One
+  parse: 216.159ms
+  compute: 73.224ms
+  result = 3525
